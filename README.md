@@ -1,2 +1,1 @@
-Hai all, i am happy to share that i am developing and enhancing my skills through a small projects!!! i build a quite simple responsive E-commerce website using HTML,CSS and Javascript
-https://dharani7899.neocities.org/E-commerce/  <--Do visit this link to see the site
+Hi all, I am happy to share that I am developing and enhancing my skills through small projects!!! I build a quite simple responsive E-commerce website using HTML, CSS, and Javascript
